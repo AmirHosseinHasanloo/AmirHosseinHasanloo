@@ -4,7 +4,7 @@ My name is AmirHossein Hasanloo
 Developer 
 -----------------------------
 
-*   🖥️  See my portfolio at [Linkedin]([https://badrnezhad.com](https://www.linkedin.com/in/amirhossein-hasanloo-7a2b93273/))
+*   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/amirhossein-hasanloo-7a2b93273/)
 *   🚀  I'm currently working on [FineLearn](https://FineLearn.ir)
 *   🤝  I'm open to collaborating on interesting projects as a web and windows developer
 
