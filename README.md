@@ -5,7 +5,6 @@ Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/amirhossein-hasanloo-7a2b93273/)
-<!-->*   🚀  I'm currently working on [FineLearn](https://FineLearn.ir)</!-->
 *   🤝  I'm open to collaborating on interesting projects as a web and desktop developer
 
 ### Skills
@@ -23,9 +22,6 @@ Developer
             width="32" height="32" /></a>
     <a href="https://github.com/AmirHosseinHasanloo" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-            width="32" height="32" /></a>
-    <a href="https://FineLearn.ir" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg"
             width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/amirhossein-hasanloo-7a2b93273/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
